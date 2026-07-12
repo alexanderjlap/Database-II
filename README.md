@@ -1,2 +1,2 @@
 # Database-II
-Coding projects based in SQL
+Coding projects based in Java
